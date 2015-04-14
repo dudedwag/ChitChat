@@ -1,0 +1,17 @@
+C:\Users\Owner\Dropbox\Shared Folder\ChatClient\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Owner\Dropbox\Shared Folder\ChatClient\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Owner\Dropbox\Shared Folder\ChatClient\ChatClient\ChatClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Dropbox\Shared Folder\ChatClient\ChatClient\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\Users\Owner\Dropbox\Shared Folder\ChatClient\ChatClient\ChatClient\obj\x86\Debug\ChatClient.pdb
+C:\Users\Zell\Dropbox\Shared Folder\ChatClient\ChatClient\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\Users\Zell\Dropbox\Shared Folder\ChatClient\ChatClient\ChatClient\obj\x86\Debug\ChatClient.pdb
+C:\Users\Owner\Desktop\Projects\ChatClient\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Owner\Desktop\Projects\ChatClient\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Owner\Desktop\Projects\ChatClient\ChatClient\ChatClient\obj\x86\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Projects\ChatClient\ChatClient\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\Users\Owner\Desktop\Projects\ChatClient\ChatClient\ChatClient\obj\x86\Debug\ChatClient.pdb
+C:\Users\Owner\Desktop\ChatClient\ChatClient\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\Users\Owner\Desktop\ChatClient\ChatClient\ChatClient\obj\x86\Debug\ChatClient.pdb
+C:\Users\Owner\Desktop\ChatClient\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Owner\Desktop\ChatClient\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Owner\Desktop\ChatClient\ChatClient\ChatClient\obj\x86\Debug\ChatClient.csprojResolveAssemblyReference.cache

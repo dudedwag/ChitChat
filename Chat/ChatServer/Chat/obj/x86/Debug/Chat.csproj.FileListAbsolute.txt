@@ -1,0 +1,14 @@
+C:\Users\Owner\Dropbox\Shared Folder\ChatServer\Chat\bin\Debug\Chat.exe
+C:\Users\Owner\Dropbox\Shared Folder\ChatServer\Chat\bin\Debug\Chat.pdb
+C:\Users\Owner\Dropbox\Shared Folder\ChatServer\Chat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Dropbox\Shared Folder\ChatServer\Chat\obj\x86\Debug\Chat.exe
+C:\Users\Owner\Dropbox\Shared Folder\ChatServer\Chat\obj\x86\Debug\Chat.pdb
+C:\Users\Owner\Desktop\Projects\ChatServer\Chat\obj\x86\Debug\Chat.exe
+C:\Users\Owner\Desktop\Projects\ChatServer\Chat\obj\x86\Debug\Chat.pdb
+C:\Users\Owner\Desktop\Projects\ChatServer\Chat\bin\Debug\Chat.exe
+C:\Users\Owner\Desktop\Projects\ChatServer\Chat\bin\Debug\Chat.pdb
+C:\Users\Owner\Desktop\ChatServer\Chat\obj\x86\Debug\Chat.exe
+C:\Users\Owner\Desktop\ChatServer\Chat\obj\x86\Debug\Chat.pdb
+C:\Users\Owner\Desktop\ChatServer\Chat\obj\x86\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\ChatServer\Chat\bin\Debug\Chat.exe
+C:\Users\Owner\Desktop\ChatServer\Chat\bin\Debug\Chat.pdb
